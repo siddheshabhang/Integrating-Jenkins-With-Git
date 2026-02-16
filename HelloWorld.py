@@ -1,10 +1,2 @@
-print("Hello, I am Learning Jenkins Poll SCM!")
-print("Hello, I am Learning Jenkins Poll SCM!")
-print("Hello, I am Learning Jenkins Poll SCM!")
-print("Hello, I am Learning Jenkins Poll SCM!")
-print("Hello, I am Learning Jenkins Poll SCM!")
-print("Hello, I am Learning Jenkins Poll SCM!")
-print("Hello, I am Learning Jenkins Poll SCM!")
-print("Hello, I am Learning Jenkins Poll SCM!")
-print("Hello, I am Learning Jenkins Poll SCM!")
-print("Hello, I am Learning Jenkins Poll SCM!")
+print("Hello, I am Learning Jenkins GitHub Hook Trigger for GitSCM polling!")
+
