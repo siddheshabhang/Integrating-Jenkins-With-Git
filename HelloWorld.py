@@ -1,1 +1,1 @@
-print("Hello, I am Learning Jenkins Poll SCM using Webhook!")
+print("Hello, I am Learning Jenkins Poll SCM!")
