@@ -1,2 +1,2 @@
-print("I am Learning Jenkins Trigger for GitSCM polling!")
+print("I am Learning Jenkins Trigger for Git webhook polling!")
 
